@@ -258,7 +258,7 @@ Output: "AB" */
 //   return n<=0;
 // };
 
-//Reverese vowels of a string
+//Reverese vowels of a string  ans
 
 let reverseVowels = function(s){
   let arr = s.split();
